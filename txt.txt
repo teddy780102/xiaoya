@@ -1,0 +1,1 @@
+bash -c "$(curl https://raw.githubusercontent.com/teddy780102/xiaoya/main/update_new.sh)" -s host
